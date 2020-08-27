@@ -1,0 +1,9 @@
+apiVersion: crd.tanjunchen.io/v1
+kind: Tanjunchen
+metadata:
+  name: example-tanjunchen
+spec:
+  Name: tanjunchen
+  Age: 24
+  Location: Beijing
+  Occupations: IT
